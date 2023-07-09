@@ -33,7 +33,7 @@ Our purpose in making Wilford Woodruff’s faithful records universally accessib
 Don't worry too much about trying to build something, just start messing around and look for something interesting. You can check out [this link](https://dr-iggs.shinyapps.io/Wilford-Woodruff-Exploration/) to explore the archive of journals and letters. As you look at what he shares, maybe an idea will come to you!
 
 ### I Have an Idea, How Can I Build It?
-Start [here](https://wilfordwoodruff.github.io/Public_Stories/)!
+Start [here](https://github.com/wilfordwoodruff/Public_Stories)!
 
 <br><br>
 [Brigham Young University - Idaho's Data Science Program](https://byuidatascience.github.io/) and [The Research and Business Development Center](https://www.rbdcenter.org/) in partnership with [The Wilford Woodruff Papers](https://wilfordwoodruffpapers.org/) project are on a journey to incorporate the tools of data science into the editorial process of bringing the writings of Wilford Woodruff out of obscurity. We leverage our [Data Science Society](https://byuidsconsulting.github.io/aboutus/services/society/), [Senior Projects](https://byuidsconsulting.github.io/aboutus/services/senior-projects/), and [Data Science Consulting Class](https://byuidsconsulting.github.io/aboutus/services/consulting-class/) to meet this goal.
