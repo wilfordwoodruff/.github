@@ -3,9 +3,9 @@
 ## OUR MISSION
 Our mission, by 2027, is to digitally preserve and publish Wilford Woodruff’s eyewitness account of the Restoration of the Gospel of Jesus Christ from 1833 to 1898.
 Our purpose in making Wilford Woodruff’s faithful records universally accessible is to inspire all people, especially the rising generation, to study and increase their faith in Jesus Christ, understand and honor sacred temple covenants, and thereby receive the blessings of exaltation with their families.
+<br><br>
+We designed this Github organization to help you personally connect with his writings and share what you find with others. We display stories and applications that people have made to help you see his life in a new way, and hopefully your time exploring and visualizing his writings will give you a greater testimony that he was called as a prophet of God.
 <br>
-
-
 
 ### What have Others Made?
 
@@ -25,12 +25,11 @@ Our purpose in making Wilford Woodruff’s faithful records universally accessib
   </tr>
 </table>
 
-
-<!-- When the R Shiny works we can theoretically embed it directly into this website if we want.-->
-
 ## Where do I Start?
 
 Don't worry too much about trying to build something, just start messing around and look for something interesting. You can check out [this link](https://dr-iggs.shinyapps.io/Wilford-Woodruff-Exploration/) to explore the archive of journals and letters. As you look at what he shares, maybe an idea will come to you!
+
+<iframe height="400" width="100%" frameborder="no" src="https://dr-iggs.shinyapps.io/Wilford-Woodruff-Exploration/"> </iframe>
 
 ### I Have an Idea, How Can I Build It?
 Start [here](https://github.com/wilfordwoodruff/Public_Stories)!
