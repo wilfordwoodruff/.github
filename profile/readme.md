@@ -13,7 +13,7 @@ We designed this Github organization to help you personally connect with his wri
   <tr>
     <td>
     <a href="https://wilfordwoodruff.github.io/app_map/index.html"><img src="https://raw.githubusercontent.com/wilfordwoodruff/Main_Webpage/main/Images/app_map.png" style="margin-bottom: 10px; margin-right: 10px;">
-    <br>Here's a map Clara Broberg made for her Senior Project.</a>
+    <br>Here's a map Clara Broberg from BYU-Idaho made for her Senior Project.</a>
     </td>
     <td>
       <a href="https://dr-iggs.shinyapps.io/Wilford-Woodruff-Exploration/"><img src="https://raw.githubusercontent.com/wilfordwoodruff/Main_Webpage/main/Images/app_explore.png" style="margin-bottom: 10px;">
@@ -28,8 +28,6 @@ We designed this Github organization to help you personally connect with his wri
 ## Where do I Start?
 
 Don't worry too much about trying to build something, just start messing around and look for something interesting. You can check out [this link](https://dr-iggs.shinyapps.io/Wilford-Woodruff-Exploration/) to explore the archive of journals and letters. As you look at what he shares, maybe an idea will come to you!
-
-<iframe height="400" width="100%" frameborder="no" src="https://dr-iggs.shinyapps.io/Wilford-Woodruff-Exploration/"> </iframe>
 
 ### I Have an Idea, How Can I Build It?
 Start [here](https://github.com/wilfordwoodruff/Public_Stories)!
